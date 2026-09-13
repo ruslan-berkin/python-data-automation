@@ -1,5 +1,4 @@
 # python-data-automation
-# python-data-automation
 Скрипты на Python и NumPy для автоматизации расчетов и обработки массивов данных.
 
 # Python Data Automation & NumPy Processing
